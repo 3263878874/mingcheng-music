@@ -1,0 +1,19 @@
+@import './iconfont.scss';
+
+html{
+    overflow-y: hidden
+}
+html,body,#app{
+    height: 100%;
+}
+
+.layout{
+    height: 100%;
+    background-color: #ccc; 
+}
+
+ul,li{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
